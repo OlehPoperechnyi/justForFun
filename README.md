@@ -1,3 +1,6 @@
+# justForFun
+This repository contains examples of various tasks you may encounter in real projects.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
